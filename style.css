@@ -1,0 +1,31 @@
+/* ---- reset ---- */
+
+  @import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&family=Bebas+Neue&family=Cabin&family=Gruppo&family=Mochiy+Pop+One&family=Mukta:wght@200&family=Nothing+You+Could+Do&family=Orbitron&family=Poppins:wght@100&family=Press+Start+2P&family=Qwitcher+Grypen&family=Rubik+80s+Fade&family=Rubik+Iso&family=Rubik+Maze&family=Shadows+Into+Light&family=Silkscreen&family=Stick+No+Bills:wght@200&display=swap');
+
+body {
+    margin-top: 0px;
+    background-color: #020204;
+    overflow-x: hidden;
+    /* height: fit-content; */
+
+    
+  }
+  
+  canvas {
+    display: block;
+    /* vertical-align: bottom; */
+    /* height: 1000vh; */
+  }
+  
+  
+  /* ---- particles.js container ---- */
+  
+  #particles-js {
+  
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    /* padding: 20px; */
+    
+  }
+
